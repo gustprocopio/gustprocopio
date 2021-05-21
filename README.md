@@ -1,16 +1,36 @@
-### Hi there 👋
+## Hi! I'm Gustavo ;) 
 
-<!--
-**gustprocopio/gustprocopio** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<a href="https://github.com/lhggomes">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=lhggomes&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=gustprocopio&layout=compact&langs_count=8&theme=dark"/>
 
-Here are some ideas to get you started:
+<div style="display: inline_block">
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Technology Stack 👨‍💻
+
+  <img align="center"  height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg"> - 
+  <img align="center"  height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg"> - 
+  <img align="center"  height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"> - 
+  <img align="center"  height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg"> - 
+  <img align="center"  height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg"> - 
+  <img align="center"  height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg"> - 
+  <img align="center"  height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg"> - 
+  <img align="center"  height="70" width="100" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-plain.svg">
+
+ 
+</div>
+
+  <p align='left'>
+  <a href="#"><img src="https://badges.pufler.dev/visits/gustprocopio/gustprocopio"></a>
+  </p>
+  
+  <details>
+  <summary>📃 My Resume</summary>
+
+
+  ##
+  
+  <div>
+  <a href = "mailto: gustproneves@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23EA4335?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/gustavo-procopio-558541110/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+  </div>
