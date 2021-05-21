@@ -1,21 +1,19 @@
 ## Hi! I'm Gustavo ;) 
 
-<a href="https://github.com/lhggomes">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=lhggomes&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+<a href="https://github.com/gustproneves">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=gustprocopio&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=gustprocopio&layout=compact&langs_count=8&theme=dark"/>
 
 <div style="display: inline_block">
 
 ## Technology Stack 👨‍💻
 
-  <img align="center"  height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg"> - 
-  <img align="center"  height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg"> - 
-  <img align="center"  height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"> - 
+  <img align="center"  height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg"> -
+  <img align="center"  height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg"> 
   <img align="center"  height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg"> - 
   <img align="center"  height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg"> - 
   <img align="center"  height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg"> - 
-  <img align="center"  height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg"> - 
-  <img align="center"  height="70" width="100" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-plain.svg">
+  
 
  
 </div>
